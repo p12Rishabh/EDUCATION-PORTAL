@@ -30,6 +30,3 @@
 <br>
                         Also, we have added 20 questions for the quiz already.
                               (You can add as many questions as you can)
-
-# EDUCATION-PORTAL
-# EDUCATION-PORTAL
